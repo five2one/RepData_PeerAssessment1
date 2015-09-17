@@ -47,7 +47,7 @@ names(maxstep_interval)
 
 ## Imputing missing values
 Calculate and report the total number of missing values in the dataset 
-(i.e. the total number of rows with NA s)
+(i.e. the total number of rows with NA's)
 ```{r}
 summary(dta$steps)
 ```
