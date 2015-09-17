@@ -1,7 +1,7 @@
 
 Title: "Reproducible Research: Peer Assessment 1"
 =================================================
-September, 2015
+September 2015
 
 
 ## Loading and preprocessing the data
